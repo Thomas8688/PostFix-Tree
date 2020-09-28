@@ -133,4 +133,3 @@ myPostfix2 = "100 7 3 1 - * 6 + - 10 +"
 myPFT = createTree(myPostfix2)
 showPostfix(myPFT)
 showInfix(myPFT)
-print("checker")
