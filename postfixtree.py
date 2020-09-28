@@ -127,7 +127,7 @@ def showInfix(tree):
 
 
 #TESTING
-
+#Valid Postfix
 myPostfix = "5 6 3 * 2 - +"
 myPostfix2 = "100 7 3 1 - * 6 + - 10 +"
 myPFT = createTree(myPostfix2)
